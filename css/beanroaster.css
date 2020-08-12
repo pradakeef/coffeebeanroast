@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#LoadImage{
+    width: 15%;
+}
+
+#boxUploadImg{
+    width: 61%;
+}
+
+#boxPointerMode{
+    width: 24%;
+    align: center;
+}
+
+#CoffeeBeanTitle{
+    width: 80%;
+}
+
+#commentBox{
+    width: 20%;
+    align: left;
+}
+
+#Comments{
+    width:622px;
+    align: center;
+}
